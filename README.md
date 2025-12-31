@@ -1,4 +1,4 @@
-🐟 AI-Driven Fish Market Supply Forecasting
+🐟 AI-Driven Fish Market Supply Forecasting.
 Hybrid BA–AIS Optimized LSTM Model (BIS)
 📌 Project Overview
 
