@@ -1,0 +1,10 @@
+{
+    "model": "Hybrid CSA + PSO + LSTM",
+    "window": 4,
+    "units": 118,
+    "learning_rate": 0.001,
+    "train_mae": 4398.435280539773,
+    "test_mae": 26326.190755208332,
+    "train_rmse": 5394.844034240556,
+    "test_rmse": 70939.93936082657
+}

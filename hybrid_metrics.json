@@ -1,0 +1,10 @@
+{
+    "train_mae": 3705.9429931640625,
+    "test_mae": 27396.982821377842,
+    "train_rmse": 5047.226863682224,
+    "test_rmse": 74507.13929669422,
+    "window": 5,
+    "units": 75,
+    "learning_rate": 0.0001,
+    "model": "Hybrid AIS + CSA + LSTM"
+}

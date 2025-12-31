@@ -1,0 +1,10 @@
+{
+    "model": "Hybrid PSO + BA + LSTM",
+    "window": 5,
+    "units": 87,
+    "learning_rate": 0.001,
+    "train_mae": 4338.750066583807,
+    "test_mae": 28024.74396306818,
+    "train_rmse": 5315.083503522087,
+    "test_rmse": 74163.18756065646
+}

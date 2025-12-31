@@ -1,0 +1,3 @@
+lr: 0.001
+units: 36
+window: 4

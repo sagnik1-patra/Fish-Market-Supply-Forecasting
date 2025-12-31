@@ -1,0 +1,5 @@
+batch_size: 16
+epochs_trained: 12
+model: LSTM
+target_column: region no. 57 - indian ocean east - andhra- pradesh
+window_size: 5

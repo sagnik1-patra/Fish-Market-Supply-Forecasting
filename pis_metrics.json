@@ -1,0 +1,10 @@
+{
+    "model": "Hybrid AIS + PSO + LSTM",
+    "window": 4,
+    "units": 36,
+    "learning_rate": 0.001,
+    "train_mae": 4471.91279740767,
+    "test_mae": 26341.430989583332,
+    "train_rmse": 5508.384873402823,
+    "test_rmse": 70849.48317890632
+}

@@ -1,0 +1,10 @@
+{
+    "model": "Hybrid BA + AIS + LSTM",
+    "window": 4,
+    "units": 57,
+    "learning_rate": 0.001,
+    "train_mae": 4433.33915571733,
+    "test_mae": 26379.883341471355,
+    "train_rmse": 5387.183324082088,
+    "test_rmse": 70945.1728113039
+}
